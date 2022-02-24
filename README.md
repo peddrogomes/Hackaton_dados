@@ -29,10 +29,10 @@
 
 ### V5- Versão de testes, restringindo os dados para os meses de plantio e colheita (11,12,1,2,3,4).
 
-##Nota:
-### Os resultados esperados não foram tão satisfatorios como queriamos, mas se dedicamos bastante.
+## Nota:
+### Os resultados esperados não foram tão satisfatorios como queriamos, não conseguimos ficar entre as 5 melhores equipes das 35 equipes participantes.
 ### Tivemos alguns atrasos em relação a concatenação dos dados e acabamos por ficar sem tempo para um ajuste melhor do modelo escolhido.
-### Mas a experiencia do evento foi sensacional e agradecemos muito por estarmos aqui entre as 35 equipes selecionadas!
+### Mas a experiência do evento foi sensacional e agradecemos muito por estarmos aqui entre as 35 equipes selecionadas!
 
 #### Hackaton Budokai
 
