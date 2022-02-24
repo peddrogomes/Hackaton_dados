@@ -32,8 +32,12 @@
 ## Nota:
 ### Os resultados esperados não foram tão satisfatorios como queriamos, não conseguimos ficar entre as 5 melhores equipes das 35 equipes participantes.
 ### Tivemos alguns atrasos em relação a concatenação dos dados e acabamos por ficar sem tempo para um ajuste melhor do modelo escolhido.
-### Mas a experiência do evento foi sensacional e agradecemos muito por estarmos aqui entre as 35 equipes selecionadas!
+### Mas a experiência do evento foi sensacional e agradecemos muito por estarmos aqui entre as 35 equipes selecionadas para participar!
 
+## Equipe:
+
+### - Pedro Gomes
+### - [Isaac Neves](https://github.com/nevesisaac) 
 #### Hackaton Budokai
 
 ⣿⣿⠿⠿⠿⠿⣿⣷⣂⠄⠄⠄⠄⠄⠄⠈⢷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
